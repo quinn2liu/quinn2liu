@@ -1,3 +1,3 @@
-- Hi! I'm Quinn Liu, a student at the University of Pennsylvania pursuing a Bachelors of Science in Engineering in Computer Science and a minor in Design.
+- Hi! I'm Quinn Liu, a student at the University of Pennsylvania pursuing a Bachelors of Science in Engineering in Computer Science.
 - Outside of school, I like to explore whatever city I'm in, play and watch soccer, play the trumpet, and hang out with friends.
 - Enjoy!
