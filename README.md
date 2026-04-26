@@ -3,7 +3,7 @@
 I am a software engineer passionate about building technology that improves people's lives.
 
 ## 🔨 I am currently...
-an **iOS Engineer @ Whoop** building software for healthcare applications
+an **iOS Engineer @ WHOOP** building software for healthcare applications
 
 **building Red Door**, an inventory management and planning iOS app for Red Door Design + Staging
 
